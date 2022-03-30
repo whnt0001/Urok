@@ -1,0 +1,8 @@
+D:\VS\urok2\urok2\obj\Debug\urok2.csproj.AssemblyReference.cache
+D:\VS\urok2\urok2\obj\Debug\urok2.csproj.SuggestedBindingRedirects.cache
+D:\VS\urok2\urok2\obj\Debug\MainWindow.g.cs
+D:\VS\urok2\urok2\obj\Debug\Page\Klients.g.cs
+D:\VS\urok2\urok2\obj\Debug\Page\Users.g.cs
+D:\VS\urok2\urok2\obj\Debug\App.g.cs
+D:\VS\urok2\urok2\obj\Debug\urok2_MarkupCompile.cache
+D:\VS\urok2\urok2\obj\Debug\urok2_MarkupCompile.lref
